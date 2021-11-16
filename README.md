@@ -6,3 +6,5 @@ MySQL 官方现在未提供 Power/AIX平台新的二进制安装包。得益于A
 
  原文件是从https://downloads.mysql.com/archives/community/ 选择MySQL Product Version: 5.1.66, Operating System: IBM AIX 下载的。
  此MySQL 5.1.66安装包在AIX 5.3, 6.1, 7.1, 7.2环境下均可以使用。
+
+Email: lisongqing@inspur.com
